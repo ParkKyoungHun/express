@@ -1,0 +1,19 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "color": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
